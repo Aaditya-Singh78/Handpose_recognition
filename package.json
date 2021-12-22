@@ -1,0 +1,18 @@
+{
+  "name": "Hand_Pose_Recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/handpose": "0.0.7",
+    "@tensorflow/tfjs": "^3.12.0",
+    "react-webcam": "^6.0.0"
+  }
+}
